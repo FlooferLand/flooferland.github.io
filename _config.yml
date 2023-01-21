@@ -1,4 +1,4 @@
 highlighter: rouge
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: "tareqdandachi/jekyll-shell-theme"
 plugins:
 - jekyll-remote-theme
