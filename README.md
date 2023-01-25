@@ -1,5 +1,6 @@
 # `# Haii!`
 My main website is located at [flooferland.tk](https://flooferland.tk/)
+An alternate site can be found at [flooferland.neocities.com](flooferland.neocities.com/)
 
 ---
 
